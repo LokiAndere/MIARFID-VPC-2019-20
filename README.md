@@ -14,7 +14,6 @@ Here we made
 ### Mobile net family
 Here are done some nets who save computational expanses in one way or another
 
-Nets for mobile devices
 - mobile net
 - mini cnn
 - shuffle net
@@ -44,6 +43,7 @@ It was supposed to be family, but we did not finish the V-net
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/res_net_family.ipynb)
 
 ### Squeeze net family
-Again it was supposed to be acompanied by some others. It is a task for future
+Again it is from mobile family. But we did experiments there so we put others here. Nets for mobile devices. They save parameters.
 - squeeze net
+- shuffle net
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/squeezenet.ipynb)
