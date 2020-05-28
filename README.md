@@ -51,6 +51,6 @@ Again it is from mobile family. But we did experiments in the first part so we p
 As we mentioned in comments in code we had no place to play with permute. That is why here we've chosen shuffle.
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/squeezenet.ipynb)
 
-In general we now know how and why to use such methods as permute, deepwise, separable, add, concatenate, permute, group convolution etc. and many many smaller parameters to construct nets. See code inside for more info, we tried to organize everything in lecture like story. Sorry for the images, they tend to be lost. We can provide those separately. But the main idea is if a paper has a clear table of net structure it is enjoyable to be implemented looking at the table. Which is exactly what we did.
+In general we now know how and why to use such methods and approaches as permute, deep wise, separable, add, concatenate, permute, group convolution etc. and many many smaller parameters to construct nets. See code inside for more info, we tried to organize everything in lecture like story. Sorry for the images, they tend to be lost. We can provide those separately. But the main idea is if a paper has a clear table of net structure it is enjoyable to be implemented looking at the table. Which is exactly what we did.
 
 With great respect and a smile, yours DYE&FSA
