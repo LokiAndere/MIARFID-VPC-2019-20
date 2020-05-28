@@ -13,8 +13,11 @@ Here we made
 
 ### Mobile net family
 Here are done some nets who save computational expanses in one way or another
+
+Nets for mobile devices
 - mobile net
 - mini cnn
+- shuffle net
 
 Also both of them were used for gender recognition task
 
