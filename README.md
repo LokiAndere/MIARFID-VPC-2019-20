@@ -15,7 +15,9 @@ Here we made
 Here are done some nets who save computational expanses in one way or another
 - mobile net
 - mini cnn
+
 Also both of them were used for gender recognition task
+
 They achived 90% with small number of parameters and 95% with big
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/MobileNet_family.ipynb)
 
@@ -23,6 +25,7 @@ They achived 90% with small number of parameters and 95% with big
 As was said before any topology structure is awaylable. For example, when we write vgg - we mean all of them and even new ones that you are going to make up.
 - alex net
 - vgg cnn
+
 They were used for CIFAR10 task to achive as the task said above 70% and a good net builder. The good builder is a credo for all families in this practice. As was said "there are a lot vggs but good ones...". So check our topologies for all the net families.
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/VGG_family.ipynb)
 
