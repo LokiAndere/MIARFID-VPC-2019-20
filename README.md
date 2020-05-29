@@ -61,6 +61,7 @@ Experiment was not very well performed. Our main task was to connect a functiona
 We used vgg16 and vgg19. We incremented the number of iterations
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/swap.ipynb)
 
+## Conclusion
 In general we now know how and why to use such methods and approaches as permute, deep wise, separable, add, concatenate, permute, group convolution, lambda etc. neural network layers and many many smaller parameters to construct nets. See code inside for more info, we tried to organize everything in lecture like story. Sorry for the images, they tend to be lost. We can provide those separately. But the main idea is if a paper has a clear table of net structure it is enjoyable to be implemented looking at the table. Which is exactly what we did.
 
 With great regards and a smile, yours DYE&FSA
