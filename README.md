@@ -54,6 +54,7 @@ As we mentioned in comments in code we had no place to play with permute. That i
 ### Car biliniar task
 We uploaded two trained vgg16. Renamed layers. Connected them together. To do it we used given function.
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/bilinearapproach.ipynb)
+
 Experiment was not very well performed. Our main task was to connect a functional model. Its optimization was not performed.
 
 ### Style swap
