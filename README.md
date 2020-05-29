@@ -53,7 +53,7 @@ As we mentioned in comments in code we had no place to play with permute. That i
 
 ### Car biliniar task
 We uploaded two trained vgg16. Renamed layers. Connected them together. To do it we used given function.
-* [GitHub]()
+* [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/bilinearapproach.ipynb)
 
 ### Style swap
 We used vgg16 and vgg19. We incremented the number of iterations
