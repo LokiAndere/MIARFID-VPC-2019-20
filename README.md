@@ -51,15 +51,15 @@ Again it is from mobile family. But we did experiments in the first part so we p
 As we mentioned in comments in code we had no place to play with permute. That is why here we've chosen shuffle.
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/squeezenet.ipynb)
 
+### Style swap
+We used vgg16 and vgg19. We incremented the number of iterations. We have two pictures
+* [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/swap.ipynb)
+
 ### Car biliniar task
-We uploaded two trained vgg16. Renamed layers. Connected them together. To do it we used given function.
+In the same manner we uploaded two trained vgg16. Renamed layers. Connected them together. To do it we used given function.
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/bilinearapproach.ipynb)
 
-Experiment was not very well performed. Our main task was to connect a functional model. Its optimization was not performed.
-
-### Style swap
-We used vgg16 and vgg19. We incremented the number of iterations
-* [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/swap.ipynb)
+Experiment was not very well successfull. Our main task was to connect a functional model. Its optimization was not performed.
 
 ## Conclusion
 In general we now know how and why to use such methods and approaches as permute, deep wise, separable, add, concatenate, permute, group convolution, lambda etc. neural network layers and many many smaller parameters to construct nets. See code inside for more info, we tried to organize everything in lecture like story. Sorry for the images, they tend to be lost. We can provide those separately. But the main idea is if a paper has a clear table of net structure it is enjoyable to be implemented looking at the table. Which is exactly what we did.
