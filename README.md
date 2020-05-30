@@ -52,7 +52,8 @@ As we mentioned in comments in code we had no place to play with permute. That i
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/squeezenet.ipynb)
 
 ### Style swap
-We used vgg16 and vgg19. We incremented the number of iterations. Also author forgot a 0.5 multiplier in content loss function.
+We used vgg16 and vgg19(without color adjustment). We incremented the number of iterations. We changed the style value to 1. We found a mistake: a 0.5 multiplier in content loss function was forgotten.
+
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/swap.ipynb)
 
 ### Car biliniar task
