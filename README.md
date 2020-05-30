@@ -52,7 +52,7 @@ As we mentioned in comments in code we had no place to play with permute. That i
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/squeezenet.ipynb)
 
 ### Style swap
-We used vgg16 and vgg19(without color adjustment). We incremented the number of iterations. We changed the style value to 1. We found a mistake: a 0.5 multiplier in content loss function was forgotten.
+We used vgg16 and vgg19(without color adjustment). We incremented the number of iterations. We changed the style value to 1. 50 in our opinion is heavy. And content weight a little more. We found a mistake: a 0.5 multiplier in content loss function was forgotten. Also for some reason in code the generated array is permuted - it is correct to also do the same when converting image to array. Which we did.
 
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/swap.ipynb)
 
