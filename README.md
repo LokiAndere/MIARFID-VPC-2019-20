@@ -55,6 +55,11 @@ As we mentioned in comments in code we had no place to play with permute. That i
 We used vgg16 and vgg19. We incremented the number of iterations. We lowered the style value. And put a content weight a little more. We found a mistake: a 0.5 multiplier in content loss function was forgotten. Also for some reason in code the generated array is permuted - it is correct to also do the same when converting image to array. Which we did.
 
 * [GitHub](https://github.com/LokiAndere/MIARFID-VPC-2019-20/blob/master/swap.ipynb)
+* [Source](https://github.com/TaavishThaman/Neural-style-transfer-with-VGG16-Keras)
+* [Source](https://github.com/johnny7861532/Keras-VGG16-style-transfer)
+* [Source](https://github.com/titu1994/Neural-Style-Transfer)
+* [Colab](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb)
+* [Colab](https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb)
 
 ### Car biliniar task
 In the same manner we uploaded two trained vgg16. Renamed layers. Connected them together. To do it we used given function.
