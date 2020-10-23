@@ -62,8 +62,9 @@ We used vgg16 and vgg19. We incremented the number of iterations. We lowered the
 * [Source](https://github.com/DanielJabbour/StyleTransfer)
 * [Colab](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb)
 * [Colab](https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb)
+* [Tutorial](https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f)
 
-
+* [YOLOv3](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
 
 ### Car biliniar task
 In the same manner we uploaded two trained vgg16. Renamed layers. Connected them together. To do it we used given function.
