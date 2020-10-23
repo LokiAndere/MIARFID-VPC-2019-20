@@ -59,6 +59,7 @@ We used vgg16 and vgg19. We incremented the number of iterations. We lowered the
 * [Source](https://github.com/johnny7861532/Keras-VGG16-style-transfer)
 * [Source](https://github.com/titu1994/Neural-Style-Transfer)
 * [Source](https://github.com/TaavishThaman/Neural-style-transfer-with-VGG16-Keras/blob/master/vgg_16_nst.py)
+* [Source](https://github.com/DanielJabbour/StyleTransfer)
 * [Colab](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb)
 * [Colab](https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb)
 
